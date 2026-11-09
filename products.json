@@ -1,0 +1,57 @@
+
+{
+  "products": [
+    {
+      "id": 1,
+      "name": {
+        "en": "SOFT",
+        "lv": "SOFT"
+      },
+      "description": {
+        "en": "everyday shampoo",
+        "lv": "ikdienas šampūns"
+      },
+      "price": 18,
+      "image": "images/soft-shampoo.png"
+    },
+    {
+      "id": 2,
+      "name": {
+        "en": "SOFT",
+        "lv": "SOFT"
+      },
+      "description": {
+        "en": "everyday conditioner",
+        "lv": "ikdienas kondicionieris"
+      },
+      "price": 18,
+      "image": "images/soft-conditioner.png"
+    },
+    {
+      "id": 3,
+      "name": {
+        "en": "STRENGTH",
+        "lv": "STRENGTH"
+      },
+      "description": {
+        "en": "lightweight hair oil",
+        "lv": "vieglas tekstūras matu eļļa"
+      },
+      "price": 14,
+      "image": "images/strength-oil.png"
+    },
+    {
+      "id": 4,
+      "name": {
+        "en": "REFRESH",
+        "lv": "REFRESH"
+      },
+      "description": {
+        "en": "dry shampoo",
+        "lv": "sausais šampūns"
+      },
+      "price": 14,
+      "image": "images/refresh-dry-shampoo.png"
+    }
+  ]
+}
